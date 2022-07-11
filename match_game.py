@@ -1,6 +1,6 @@
 matches_left = 13
 
-print(f"\n*****************\nWe start with {matches_left} matches, and players take turns removing 1, 2, or 3 matche(s) at a time.\nThe person who removes the last match wins.")
+print(f"\n*****************\nInstructions : We start with {matches_left} matches, and players take turns removing 1, 2, or 3 matche(s) at a time.\nThe person who removes the last match wins.")
 
 player1 = input("\nEnter player 1's name: ")
 player2 = input("Enter player 2's name: ")
